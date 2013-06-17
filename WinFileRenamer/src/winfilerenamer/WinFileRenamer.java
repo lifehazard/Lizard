@@ -1,12 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package winfilerenamer;
 
 /**
  *
- * @author lenovo
+ * @author Dian Cahyono <dc.life.hazard@gmail.com, dian.cahyono.sujiadi@gmail.com>
  */
 public class WinFileRenamer {
 
